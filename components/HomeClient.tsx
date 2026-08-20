@@ -198,7 +198,7 @@ export function HomeClient() {
           <div className="mx-auto sm:text-center">
             <h2 className="text-base font-semibold leading-7 text-blue-500">
               Free, ephemeral,{' '}
-              <a href="https://github.com/0sumcode/Encrypt_exchange" target="_blank" rel="noreferrer" className="underline">
+              <a href="https://github.com/Manyruumpus/Encrypt-exchange" target="_blank" rel="noreferrer" className="underline">
                 open-source
               </a>
             </h2>
