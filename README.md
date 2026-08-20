@@ -326,6 +326,3 @@ node_modules
 
 Make one change at a time, test upload and download behavior, then commit the working state.
 
-## License and Attribution
-
-This project began as a local study adaptation of the public `0sumcode/Encrypt_exchange` repository. Retain the upstream license and give appropriate attribution when redistributing or publishing derivative work.
